@@ -1,0 +1,17 @@
+{
+    "name": "admin/kitchen_chefs",
+    "require": {
+        "algolia/algoliasearch-client-php": "^3.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Admin\\KitchenChefs\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lucasbbs",
+            "email": "lucasbbs@live.fr"
+        }
+    ]
+}
