@@ -11,7 +11,7 @@ echo "<!DOCTYPE html>
       content='width=device-width, initial-scale=1, shrink-to-fit=no'
     />
     <meta name='theme-color' content='#000000' />
-    <title>Algolia InstantSearch | Geo Search demo</title>
+    <title>Kitchen Chefs demo by Lucas</title>
     <link
       rel='stylesheet'
       type='text/css'
